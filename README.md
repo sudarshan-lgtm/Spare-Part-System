@@ -21,8 +21,6 @@ A complete product-based ordering and inventory management system designed for b
 ## 💼 Use Case
 This system is actively used in real-world business operations to manage product orders and warehouse dispatch efficiently.
 
-## 📸 Screenshots
-(Add screenshots here)
 
 ## 🔗 Live Demo (if any)
 www.rjautoheaven.com
